@@ -1,0 +1,2 @@
+
+path <- Sys.getenv("PATH")
